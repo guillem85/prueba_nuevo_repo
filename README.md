@@ -6,11 +6,11 @@ creando un repositorio
 ### con más 'numerales' # al inicio de la linea indicamos el tamaño del texto de títulos o subtitulos de distinto rango, pra dar orden al proyecto  
 
 salto de linea con 2 espacios al final  
-otro salto  
+  
 otro salto  
 algo de espacio para dejar lugar al ejemplo  
 otro salto  
-otro salto  
+  
 otro salto  
 
 # ejemplo de título: Fundamentos de Data Science
