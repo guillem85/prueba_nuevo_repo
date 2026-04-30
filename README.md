@@ -12,10 +12,10 @@ algo de espacio para dejar lugar al ejemplo
 otro salto  
   
 otro salto  
+<br>
+<br>
+<br>
 
-
-
-  
 # ejemplo de título: Fundamentos de Data Science
 acá podemos poner texto explicativo por ejemplo una descripción.
 
