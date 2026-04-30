@@ -10,7 +10,10 @@ salto de linea con 2 espacios al final
 otro salto  
 algo de espacio para dejar lugar al ejemplo  
 otro salto  
-  
+Primer párrafo.
+
+Segundo párrafo.
+
 otro salto  
 <br>
 <br>
