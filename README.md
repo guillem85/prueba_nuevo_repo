@@ -19,7 +19,7 @@ otro salto
 <br>
 <br>
 
-tmb podemos hacer una separación con 3 -
+tmb podemos hacer una separación con 3 - pero recordar que si dejamso texto en la linea superior al separador, lo tomará como un título. si deseamos que no lo haga, hay que deajr una linea en blanco
 
 ---
 
