@@ -6,6 +6,14 @@ creando un repositorio
 ### con más 'numerales' # al inicio de la linea indicamos el tamaño del texto de títulos o subtitulos de distinto rango, pra dar orden al proyecto
 
 
+
+
+algo de espacio para dejar lugar al ejemplo
+
+
+
+
+
 # ejemplo de título: Fundamentos de Data Science
 acá podemos poner texto explicativo por ejemplo una descripción.
 
