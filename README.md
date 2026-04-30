@@ -22,7 +22,9 @@ otro salto
 tmb podemos hacer una separación con 3 -
 ---
 
-
+<br>
+<br>
+<br>
 # ejemplo de título: Fundamentos de Data Science
 acá podemos poner texto explicativo por ejemplo una descripción.
 
